@@ -11,3 +11,6 @@ wheels/
 
 #api key file
 .env
+
+# Unsafe features
+*run_python_file*
