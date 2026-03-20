@@ -2,7 +2,7 @@
 
 Simple AI agent based on Gemini as a Python learning project from [Build an AI Agent in Python \[Full Course\] | Boot.dev](https://www.boot.dev/courses/build-ai-agent-python)
 
-![Certification of Completion soon...]()
+![Certification of Completion](https://github.com/user-attachments/assets/ea7a758b-fe29-4a63-a4d8-ddf0b372f533)
 
 ## Setup
 
